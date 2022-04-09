@@ -80,10 +80,11 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
-## Click here to join whatsapp group 
+## Click here to join whatsapp group https://chat.whatsapp.com/KzNPflGsF03DBCBkAKqkze)
+86
 
-[![hehe](https://i.imgur.com/6gTX8RE.jpg)](https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC)
 
+[![hehe](https://i.imgur.com/6gTX8RE.jpg)](https://chat.whatsapp.com/KzNPflGsF03DBCBkAKqkze)
 ## F.A.Q
 Answer a few frequently asked questions;
 ### Can you read my messages?
@@ -121,18 +122,18 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 
 You can fork bot but don't change creadit ©
-
-
-
-
-
-
-
-
-
-
-
-
+g
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
 
 
 
